@@ -37,7 +37,7 @@ By reading some papers on the optimization techniques I find out that there are 
 ● Learning Rate <br/>
 I did not explore extensively about which learning rate to use. I found some learning rates
 from state-of-the-art object classification papers, and they worked well. For training in step 5 I used
-learning rate 1*exp(-3), and for training in step 7 I used learning rate 1*exp(-5). The reason behind
+learning rate 1\*exp(-3), and for training in step 7 I used learning rate 1\*exp(-5). The reason behind
 that was that in the last layer we had not so much parameters to train in comparison to the whole
 network. In fact, the goal of training in step 5 is to fine tune last layer as much as possible, without
 caring about overshooting or any other problems related with big learning rates. However, the
