@@ -109,11 +109,10 @@ https://pytorch.org/docs/stable/nn.html#torch.nn.Module.train<br/>
 https://pytorch.org/docs/stable/nn.html?highlight=eval#torch.nn.Module.eval<br/>
 [11] - RandomResizedCrop - Crop the given PIL Image to random size and aspect ratio.
 https://pytorch.org/docs/stable/torchvision/transforms.html#torchvision.transforms.RandomResizedC<br/>
-rop
+rop. <br/>
 [12] - RandomHorizontalFlip - Horizontally flip the given PIL Image randomly with a given
-probability.
-https://pytorch.org/docs/stable/torchvision/transforms.html#torchvision.transforms.RandomHorizonta<br/>
-lFlip
+probability.<br/>
+https://pytorch.org/docs/stable/torchvision/transforms.html#torchvision.transforms.RandomHorizontalFlip<br/>
 [13] - RandomRotation - Rotate the image by angle.
 https://pytorch.org/docs/stable/torchvision/transforms.html#torchvision.transforms.RandomRotation<br/>
 [14] - Normalize - Normalize a tensor image with mean and standard deviation.
