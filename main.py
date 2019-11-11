@@ -98,7 +98,7 @@ def main(args):
 
   print('loading a model')
   """
-  loda the best performing model
+  load the best performing model
   model.load_state_dict(torch.load("resnet50.pth"))
   write some test function to test your model
   test(model, dtype)
