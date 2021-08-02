@@ -1,4 +1,4 @@
-# Manga Classification (in PyTorch)
+# Manga Classification
 
 1. Code is in main.py file
 2. Dataset can be download from this link: https://www.kaggle.com/c/manga/data
